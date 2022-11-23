@@ -1,0 +1,20 @@
+footer {
+  background-color: lightgrey;
+  color: black;
+  width: 100%;
+  padding: 5px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: auto;
+}
+a {
+  margin-left: 5px;
+  text-decoration: none;
+  color: black;
+}
+.loguito {
+  height: 40px;
+  width: 34px;
+}
